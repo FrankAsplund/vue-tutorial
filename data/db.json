@@ -1,0 +1,19 @@
+{
+  "playlists": [
+    {
+      "id": 1,
+      "title": "The Race Is About To Begin",
+      "artist": "Black Midi"
+    },
+    {
+      "id": 2,
+      "title": "Hellfire",
+      "artist": "Black Midi"
+    },
+    {
+      "id": 3,
+      "title": "Enchanted",
+      "artist": "Taylor Swift"
+    }
+  ]
+}
